@@ -1,0 +1,52 @@
+﻿-----M-huset-----
+Hiss M2:
+BV: Onkmot, provtagning
+vån 1: Kemlab, Blodcentralen
+Vån 2: Avd. 82, 92
+Vån 3: Avd. 83, 93
+Vån 4: Avd. 84, 94
+Vån 5: MBO, Avd. 85
+Vån 6: Neuromot, 96
+Hiss M3:
+BV: Geriatriskmottagning, Fysioterapi
+Vån 1: Medmot 1
+Vån 2: Medmot 2, 3
+Vån 3: Dialysen
+-----A-huset-----
+BV: Avd. 40A, 40B, Audiologen
+Vån 7: Logopeden
+Vån 11: Kommunal
+-----B-huset-----
+BV: Urologmot
+Vån 1: Kirurgmot, Endoskopienheten, Medmot 4
+Vån 2: --
+Vån 3: Kvinnoklinikens mottagning, Avd. 23
+Vån 4: Fertilitetsenheten
+-----O-huset-----
+Hiss B2:
+KP: PET-Röntgen
+BV: Röntgen
+Vån 1: Akutröntgen
+Vån 2: --
+Vån 3: Hand-OP, KK-OP, Ort-OP
+Vån 4: DKE, Thorax-OP
+Hiss B3:
+BV: Akutmottagning
+Vån 1: AVA, Ortmot
+Vån 2: Lungmot, Tobaksmot
+Vån 3: Hjärtmot
+Vån 4: Thorax-IVA
+-----G-huset-----
+Hiss L1:
+BV: Akutmottagning
+Vån 1: AVA, Medmot 5,
+Vån 2: Lungmot, Avd. 12
+Vån 3: Hjärtmot, Avd. 63
+Vån 4: IVA
+Hiss L2:
+BV: Patologen
+Vån 1: Handkirmot
+Vån 2: Fyslab
+Vån 3: Avd. 53
+-----L-huset-----
+Hiss P2: 
